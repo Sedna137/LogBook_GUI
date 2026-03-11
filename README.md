@@ -1,10 +1,9 @@
 # LogBook_GUI
 A python GUI for easy logging. Such as lab notes, diary, reports.
 
-Requirements: 
-tkinter
+- Requirements: tkinter
 
-- save the file in desired directory for e.g. 'LogbookDir'
+Save this python file in desired directory for e.g. 'LogbookDir'
 - open conda terminal
 - cd: D:\LogbookDir
 - python LogDiary.py
