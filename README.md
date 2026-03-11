@@ -1,7 +1,7 @@
 # LogBook_GUI
 A python GUI for easy logging. Such as lab notes, diary, reports.
 
-- requirements
+Requirements: 
 tkinter
 
 - save the file in desired directory for e.g. 'LogbookDir'
