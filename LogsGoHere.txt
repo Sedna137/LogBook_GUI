@@ -1,0 +1,16 @@
+
+*****************************************************
+11.03.2026, 19:44
+#1 Starting Sentence for task 1:
+Test run answer for Task 1
+
+#2 Starting Sentence for task 2:
+Test run answer for Task 2
+
+Additional notes:
+Location: XYZ
+
+This is a test file added to the github repository.
+All log entries can be found here.
+Click 'save all' to save task1, task2, and entry in the large blank box.
+Click 'Save notes' only to save entry in the large blank box.
