@@ -5,10 +5,11 @@ import os
 '''
 Digital logbook
 - This user interface allows one to write notes and logs.
-- Entries will be saved including time stamp.
-- Seperate sections for independent task as well as additional notes included.
+- Entries will be saved, including a time stamp.
+- Separate sections for independent tasks as well as additional notes included.
 
 Author Jeena A. V.
+Created in 2019
 Updated on 11.03.2026
 written in Python 3.14.2
 '''
@@ -82,3 +83,4 @@ root = Tk()
 app = LogDiary(root)
 root.wm_title("LogDiary")
 root.mainloop()
+
